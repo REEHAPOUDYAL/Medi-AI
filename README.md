@@ -1,2 +1,2 @@
-# MediAI
-Omnichannel AI RAG and GraphRAG focused on Medical knowledge.
+# MediAI 
+GraphRAG on Medical knowledge.
