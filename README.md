@@ -1,2 +1,2 @@
-# SocialOS-AI
-Omnichannel AI agent focused on growth, retention, and engagement.
+# MediAI
+Omnichannel AI RAG and GraphRAG focused on Medical knowledge.
