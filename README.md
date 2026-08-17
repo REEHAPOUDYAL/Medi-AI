@@ -1,2 +1,2 @@
-# MediAI 
+# MediAI GraphRAG
 GraphRAG on Medical knowledge.
